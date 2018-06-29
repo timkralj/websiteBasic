@@ -1,0 +1,9 @@
+<div>
+    <h1>Brothers</h1>
+    <hr/>
+    <div class="row">
+        <div *ngFor="let brother of brothers" class="col-md-5">
+            <brother-thumbnail [brother]="brother"></brother-thumbnail>
+        </div>
+    </div>
+</div>

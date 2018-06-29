@@ -1,0 +1,15 @@
+.thumbnail {
+    height: 180px;
+    max-width: 400px;
+}
+.image {
+    max-width: auto;
+    max-height: 140px;
+}
+.float1 {
+    float: left;
+    max-width: 250px;
+}
+.name {
+    width: 300px;
+}

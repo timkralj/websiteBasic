@@ -1,0 +1,13 @@
+#menu ul{
+    list-style: none;
+}
+#menu li{
+    display: inline;
+}
+#TTLogo{
+    margin-top: .1cm;
+    width: auto;
+    height: auto;
+    max-width: 50px;
+    max-height: 50px;
+}

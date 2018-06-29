@@ -1,0 +1,10 @@
+.fit {
+    max-width: 99%;
+    max-height: 99%
+}
+#menu ul{
+    list-style: none;
+}
+#menu li{
+    display: inline;
+}
